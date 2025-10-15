@@ -1,0 +1,11 @@
+Zachery Fleming - zfleming@wisc.edu
+q5,q6,q7
+
+Ido Ofek - iofek@wisc.edu
+q8,q9,q10
+
+Sanjay Mathur - mathur22@wisc.edu
+q1,q2,q3,q4
+
+For this stage we split up the queries evenly amongst the group. I put the queries each of us were responsible for below our names.
+We also all reviewed each others queries to make sure they were correct.
